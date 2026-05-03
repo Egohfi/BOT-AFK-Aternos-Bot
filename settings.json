@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "AFK_BOT",
-    "password": "",
+    "password": "148842562",
     "type": "offline"
   },
   "server": {
-    "ip": "nrka.aternos.me",
-    "port": 33329,
+    "ip": "wwwa.aternos.me",
+    "port": 48268,
     "version": "",
     "try-creative": false
   },
