@@ -23,23 +23,23 @@
       "password": "148842562"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": -1,
+      "repeat-delay": 10000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "/ping",
+        "/ping",
+        "/ping"
       ]
     },
     "chat-log": false,
     "auto-reconnect": false,
-    "auto-reconnect-delay": -1,
-    "max-reconnect-delay": -1
+    "auto-reconnect-delay": 9999999999999999999999999999999999,
+    "max-reconnect-delay": 9999999999999999999999999999999999
   },
   "movement": {
     "enabled": true,
