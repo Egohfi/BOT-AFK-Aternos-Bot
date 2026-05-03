@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": -1,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
@@ -42,7 +42,7 @@
     "max-reconnect-delay": -1
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 50
+      "interval": 5
     },
     "random-jump": {
       "enabled": true,
-      "interval": 100
+      "interval": 10
     }
   },
   "modules": {
